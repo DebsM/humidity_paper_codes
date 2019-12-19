@@ -1,5 +1,4 @@
-# NatureCom_paper_codes
-Codes for the 'The critical role of humidity in modeling summer electricity demand across the United States' paper.
+# Paper codes (mode details will be added once paper is published)
 
 Data sources are public and can be found at:
 
