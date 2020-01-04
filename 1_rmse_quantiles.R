@@ -2,11 +2,11 @@
 ##### QUANTILE ERRORS #####################
 ##### NATURE COM PAPER SUBMISSION CODE ####
 ###########################################
-### AUTHOR: Debora Maia-Silva #############
+### AUTHOR: DBPR #############
 ###########################################
 
-#setwd("C:/Users/Debora/Documents/Purdue/Month_Climate/Linear Regression")
-#setwd("C:/Users/dmaiasil/Documents/Purdue Projects/Month_Climate/Linear Regression")
+#setwd("C:/Users/DXXXXX/Documents/Purdue/Month_Climate/Linear Regression")
+#setwd("C:/Users/XXXXXXXX/Documents/Purdue Projects/Month_Climate/Linear Regression")
 
 # loading the data
 
