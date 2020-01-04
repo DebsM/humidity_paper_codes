@@ -2,14 +2,14 @@
 ##### LOAD PRE PROCESSING #################
 ##### NATURE COM PAPER SUBMISSION CODE ####
 ###########################################
-### AUTHOR: Debora Maia-Silva #############
+### AUTHOR: DBPR #############
 ###########################################
 
 
 library(dplyr)
 
 
-#setwd("C:/Users/dmaiasil/Documents/Purdue Projects/Climate sensitivity/ClimateData")
+#setwd("C:/Users/dXXXXX/Documents/Purdue Projects/Climate sensitivity/ClimateData")
 
 ####### Electricity Sales Data read from .csv file
 ####### Pick out data for all states from 2008 to 2016.
