@@ -10,8 +10,8 @@ library('doParallel')
 library('parallel')
 library('doSNOW')
 
-#setwd("C:/Users/dmaiasil/Documents/Purdue Projects/Monthly Analysis/Models 1/Bart_select")
-setwd("C:/Users/Debora/Documents/Purdue/Monthly Analysis/Models 1/Bart_select")
+#setwd("C:/Users/dXXXXX/Documents/Purdue Projects/Monthly Analysis/Models 1/Bart_select")
+setwd("C:/Users/DXXXXX/Documents/Purdue/Monthly Analysis/Models 1/Bart_select")
 
 source("03A_bart_package_cross_validation.R")
 source("03B_bart_package_vimp.R")
