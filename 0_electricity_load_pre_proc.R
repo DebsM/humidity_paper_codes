@@ -36,7 +36,7 @@ salesR.summer <- as.numeric(gsub(",","",electricity.summer$Megawatthours)) * 1e3
 ###### Convert a state's aggregate electricity sales into percapita electricity sales
 ###### Monthly population data for the years 2008 to 2016 is processed in seperate R fiile
 ######=================================================================================
-#wdir <- ("C:/Users/dmaiasil/Documents/Purdue Projects/Climate sensitivity/ClimateData")
+#wdir <- ("C:/Users/dXXXX/Documents/Purdue Projects/Climate sensitivity/ClimateData")
 #source("02A_PopulationDataProcessing.R")
 
 #both in alphabetical order of states; year; and month
