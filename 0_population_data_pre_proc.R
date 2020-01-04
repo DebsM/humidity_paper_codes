@@ -3,7 +3,7 @@
 ##### population data PRE PROCESSING ######
 ##### NATURE COM PAPER SUBMISSION CODE ####
 ###########################################
-### AUTHOR: Debora Maia-Silva #############
+### AUTHOR: DBPR #############
 ###########################################
 
 library(dplyr)
