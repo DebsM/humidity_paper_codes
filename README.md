@@ -1,4 +1,4 @@
-# Paper codes (mode details will be added once paper is published)
+# Data and Code Availability 
 
 Data sources are public and can be found at:
 
