@@ -46,7 +46,7 @@ Special attention to updating the java package and running the initial codes in 
 
 # Instructions 
 
-Files that start with 0 are preprocessing files. Files that start with 1 were the ones used to process the results. RData file types are also submitted to aid in processing the 1_ files and need to be loaded in the environment before running the codes.
+Files that start with 0 are preprocessing files. Files that start with 1 were the ones used to process the results. RData file types are submitted to aid in processing the 1_ files (RData_files) and need to be loaded in the environment before running the codes.
 
 Attention to changing working director (setwd function) and machine memory parameters when running codes (available memory and cores), as in
 
