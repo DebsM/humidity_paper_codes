@@ -11,8 +11,8 @@ https://www.census.gov/programs-surveys/popest/data/data-sets.html
 climate data:
 https://www.esrl.noaa.gov/psd/data/gridded/data.narr.html
 
-%%%%%
-#Processed data file: Processed_data_for_data_availability.zip
+
+# Processed data file: Processed_data_for_data_availability.zip
 
 %%%%%
 R version:
@@ -31,21 +31,20 @@ language       R
 version.string R version 3.4.4 (2018-03-15)
 nickname       Someone to Lean On      
 
-%%%%%
-#To download and install R:
+
+# Download and install R:
 https://www.r-project.org/
 https://cran.r-project.org/doc/manuals/r-release/R-admin.html
 
 Installation time less than 10 minutes on most computers.
 
 
-%%%%%
-#About the main package, bartMachine, including manual:
+# About the main package, bartMachine, including manual:
 https://cran.r-project.org/web/packages/bartMachine/index.html
 Special attention to updating the java package and running the initial codes in the right order, as seen in the files uploaded here.
 
-%%%%%
-#INSTRUCTIONS
+
+# Instructions 
 
 Files that start with 0 are preprocessing files. Files that start with 1 were the ones used to process the results. RData file types are also submitted to aid in processing the 1_ files. 
 
