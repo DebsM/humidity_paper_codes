@@ -2,7 +2,7 @@
 ##### models built ###### #################
 ##### NATURE COM PAPER SUBMISSION CODE ####
 ###########################################
-### AUTHOR: Debora Maia-Silva #############
+### AUTHOR: DBPR #############
 ###########################################
 
 library('foreach')
